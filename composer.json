@@ -1,0 +1,19 @@
+{
+    "name": "gander-tools/playground-php-lib",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GanderTools\\PlaygroundPhpLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adam Gąsowski"
+        }
+    ],
+    "minimum-stability": "dev"
+}
